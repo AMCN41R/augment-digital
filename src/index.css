@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: 'Urbanist';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.w-100 { width: 100%; }
+
+.flex-grow-1 { flex-grow: 1; }
+.flex-1 { flex: 1; }
+.flex-2 { flex: 2; }
+
+.text-bold { font-weight: 800; }
+
+.text-italic { font-style: italic; }
