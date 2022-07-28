@@ -26,7 +26,7 @@ export const Home: React.FC<IProps> = (props): JSX.Element => {
           Technical <span className="text-bold">Consulting</span> | Software <span className="text-bold">Engineering</span>
         </Text>
         <Text size="lg">
-          Agile <span className="text-bold">Transformation</span>
+          Architecture as a <span className="text-bold">Service</span>
         </Text>
       </Description>
       <LinkButton href='mailto:hello@augmentdigital.net'>
