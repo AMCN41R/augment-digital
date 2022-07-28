@@ -1,7 +1,7 @@
 # Augment Digital
 
 ### Shift Happens
-Technical Consulting | Software Engineering | Agile Transformation
+Technical Consulting | Software Engineering | Architecture as a Service
 
 Find us at [augmentdigital.net](https://www.augmentdigital.net) or [get in touch!](mailto:hello@augmentdigital.net)
 
